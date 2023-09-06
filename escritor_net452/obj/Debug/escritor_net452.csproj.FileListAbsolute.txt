@@ -1,0 +1,5 @@
+D:\Proyectos-Ejemplos- Sistemas\escritor_net452\escritor_net452\bin\Debug\escritor_net452.dll
+D:\Proyectos-Ejemplos- Sistemas\escritor_net452\escritor_net452\bin\Debug\escritor_net452.pdb
+D:\Proyectos-Ejemplos- Sistemas\escritor_net452\escritor_net452\obj\Debug\escritor_net452.csprojResolveAssemblyReference.cache
+D:\Proyectos-Ejemplos- Sistemas\escritor_net452\escritor_net452\obj\Debug\escritor_net452.dll
+D:\Proyectos-Ejemplos- Sistemas\escritor_net452\escritor_net452\obj\Debug\escritor_net452.pdb
